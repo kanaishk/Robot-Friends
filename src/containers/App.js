@@ -41,6 +41,7 @@ class App extends React.Component {
 							<CardList robots={filteredRobots} />
 						</ErrorBoundary>
 					</Scroll>
+					<h1 className='f2'>Kanaishk Garg</h1>
 				</div>
 			);
 		}
